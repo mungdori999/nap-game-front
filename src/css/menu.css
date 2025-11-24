@@ -1,0 +1,14 @@
+#menu div {
+  font-size: 40px;
+  margin: 20px 0;
+  color: #545454;
+  cursor: pointer;
+}
+
+#menu div:hover {
+  color: #000000;
+}
+
+#inventory-modal {
+  font-size: 16px;
+}

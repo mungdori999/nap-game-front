@@ -1,4 +1,3 @@
-import "./css/game.css";
 import {
   AnimatedSprite,
   Application,
