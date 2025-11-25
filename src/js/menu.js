@@ -3,7 +3,7 @@ export function loadMenu() {
     autoOpen: false,
     modal: true,
     width: 500,
-    height: 300,
+    height: 630,
     buttons: {
       close: function () {
         $(this).dialog("close");

@@ -88,6 +88,6 @@ export async function loadGame() {
     app.screen.width / 2,
     app.screen.height
   );
-  //   drawObstacles(app);
+
   setupKeyboardMovement(app, character);
 }
